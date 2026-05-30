@@ -7,6 +7,7 @@ images:
   k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.2.3: selina5288/kube-state-metrics:v2.2.3
   gcr.io/heptio-images/eventrouter:latest: selina5288/eventrouter:latest
   ghcr.io/openclaw/openclaw:latest: selina5288/openclaw:latest
+  node:20-alpine: selina5288/node:20-alpine
   
   
   
