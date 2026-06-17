@@ -8,6 +8,7 @@ images:
   gcr.io/heptio-images/eventrouter:latest: selina5288/eventrouter:latest
   ghcr.io/openclaw/openclaw:latest: selina5288/openclaw:latest
   node:20-alpine: selina5288/node:20-alpine
+  paddlepaddle/paddleocr:latest-cpu: selina5288/paddleocr:lastet-cpu
   
   
   
